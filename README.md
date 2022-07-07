@@ -11,8 +11,9 @@ https://www.youtube.com/watch?v=BhniYvqhrU4
 Channels on image board will be as follows:
 1. Computer Science
 2. Personal Fitness
-3. Finance
-4. Psychology & Sociology
+3. Marshal Valor 
+4. Finance
+5. Psychology & Sociology
 6. Religion
 7. Film
 8. Music
