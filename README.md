@@ -12,8 +12,8 @@ Channels on image board will be as follows:
 1. Computer Science
 2. Marshal Arts & Personal Fitness
 3. Finance
-4. Psychology 
-6. Sociology
+4. Psychology & Sociology
+6. Religion
 7. Film
 8. Music
 9. Litterature
