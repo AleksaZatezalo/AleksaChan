@@ -20,4 +20,4 @@ Channels on image board will be as follows:
 9. Litterature
 10. Visual Arts
 11. Eunteprenurship
-12. Conspiracy
+12. Politics
