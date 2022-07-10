@@ -1,0 +1,20 @@
+extends ../layout.pug
+
+block head
+	title Login
+
+block content
+	h1.board-title Login
+	.form-wrapper.flex-center.mv-10
+		form.form-post(action='/forms/login' method='POST')
+			input(type='hidden' name='goto' value=goto)
+			.row
+				.label Username
+				input(type='text', name='username', maxlength='50' required)
+			.row
+				.label Password
+				input(type='password', name='password', maxlength='100' required)
+			input(type='submit', value='submit')
+		p: a(href='/register.html') Register
+		p: a(href='/changepassword.html') Change Password
+
