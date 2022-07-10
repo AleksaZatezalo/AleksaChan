@@ -1,0 +1,10 @@
+:root {
+    --attachment-img: url('/file/attachment.png');
+    --spoiler-img: url('/file/spoiler.png');
+    --audio-img: url('/file/audio.png');
+    --captcha-grid-size: 1fr 1fr 1fr 1fr ;
+    --thumbnail-size: 250px;
+    --captcha-w: 210px;
+    --captcha-h: 80px;
+    --bypass-height: 235px;
+}
